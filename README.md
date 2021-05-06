@@ -6,6 +6,8 @@
 ### qt
 [QT之路](https://www.devbean.net/2012/08/qt-study-road-2-catelog/)  
 
+### 计组
+[32位alu](https://github.com/destiny0118/ALU32)
 
 ## 安装东西 
 ### Xilinx（之前为了下vivado） 
