@@ -8,6 +8,7 @@
 
 ### 计组
 [32位alu](https://github.com/destiny0118/ALU32)
+[32位](https://github.com/gupta-utkarsh/alu-8bit)
 
 ## 安装东西 
 ### Xilinx（之前为了下vivado） 
